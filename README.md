@@ -11,8 +11,9 @@ De plus un bouton représentant un smiley permettra au joueur de quitter, recomm
 
 Le Sdk minimum requis est le 15 et le Sdk optimale est le 22.
 
-Plusieurs points à améliorer. Premièrement les graphismes qui sont mauvais. 
-Deuxièmement l'application pourrait être plus optimiser pour réagir plus vite aux actions de l'utilisateur.
-Enfin le code pourrait sûrement être simplifié.
+Plusieurs points à améliorer: 
+-Premièrement les graphismes qui sont mauvais. 
+-Deuxièmement l'application pourrait être plus optimiser pour réagir plus vite aux actions de l'utilisateur.
+-Enfin le code pourrait sûrement être simplifié.
 
 Le partie technique de l'application a pris une dizaine d'heures.
