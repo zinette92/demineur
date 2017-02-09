@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4d273328"
+    tools:context=".MainActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="30dp"
+        android:background="#69ffefb4"
+        android:textSize="24sp"
+        android:id="@+id/button_regles"
+        android:text="Règles"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="Jouer"
+        android:layout_above="@id/button_regles"
+        android:background="#69ffefb4"
+        android:textSize="24sp"
+        android:id="@+id/button_jouer"
+        />
+
+</RelativeLayout>

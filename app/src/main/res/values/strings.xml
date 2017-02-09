@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demineur</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+        <string name="rejouer">Rejouer</string>
+        <string name="recommencer">Recommencer</string>
+        <string name="choix">Que voulez-vous faire ?</string>
+        <string name="difficulte">Changer de difficulté</string>
+        <string name="retour_menu">Retour au menu</string>
+        <string name="facile">Facile</string>
+        <string name="normal">Normal</string>
+        <string name="difficile">Difficile</string>
+        <string name="victoire">Bravo vous avez gagné la partie !</string>
+        <string name="defaite">Dommage vous avez perdue la partie</string>
+        <string name="regles">Le but du démineur est de réussir à découvrir toutes les cases de la grille sans tomber sur une bombe et cela le plus rapidement possible. \n\nChaque case est représentée par une icône. Si une case est représentée par un chiffre cela signifie qu\'autour de cette case il y a autant de bombe que le chiffre indiqué. \n\nAu contraire si la case est vide, alors il n\'y aucune bombe aux alentours et toutes les cases vides connexes à celle-ci seront decouvertes. Si vous tombez sur une case contenant une bombe celle-ci sera représentée sur un fond rouge et toutes les autres cases seront découvertes hormis celle marquée par un drapeau. \n\nEn effet vous disposez d\'un nombre de drapeaux égale au nombre de bombes contenu dans la grille. \n\nPour pouvoir marque une case par un drapeau, il suffit de cliquer sur le drapeau en haut à gauche de l\'ecran et de cliquer sur les cases que vous désirez marquer. \n\nA la fin de partie si des cases sont marquées alors celles-ci seront soit représentées par un drapeau normal ce qui signifie que le marquage était correcte, sinon le drapeau sera barré et cela signifie que le marquage était incorrecte.</string>
+
+
+</resources>
